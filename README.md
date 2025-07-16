@@ -24,7 +24,7 @@ A stylish, user-friendly task management web application built using **HTML**, *
 
 ## 📸 Screenshots
 
-(Add screenshots here if needed)
+![To-Do App Screenshot](todo_ui.png)
 
 ---
 
